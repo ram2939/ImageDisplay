@@ -32,13 +32,13 @@ class Image_Pick_State extends State<Image_Pick> {
             bottom: TabBar(
               tabs: [
                 Tab(
-                  child: Text("Tab1"),
+                  child: Text("Tab 1"),
                 ),
                 Tab(
-                  child: Text("Tab2"),
+                  child: Text("Tab 2"),
                 ),
                 Tab(
-                  child: Text("Tab3"),
+                  child: Text("Tab 3"),
                 ),
               ],
             ),
